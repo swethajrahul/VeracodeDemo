@@ -59,3 +59,6 @@ You will then need to manually run the two commands within `/entrypoint.sh`. The
 
 
 Try changing something to see if the scan is getting triggered.
+
+
+I've added something to see if the scan is getting triggered automatically like it should
